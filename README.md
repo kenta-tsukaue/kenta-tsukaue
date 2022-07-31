@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi I'm kenta 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenta-tsukaue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kenta-tsukaue/kenta-tsukaue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
