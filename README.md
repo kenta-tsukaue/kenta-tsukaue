@@ -2,7 +2,7 @@
 Hi, I'm an AI and Backend engineer. 🤝
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,nodejs,react,nextjs,nestjs,python,tailwind,firebase,vercel,aws,azure,gcp,git,github,githubactions,figma,linux,ubuntu,centos" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,nodejs,react,nextjs,nestjs,python,go,tailwind,firebase,vercel,aws,azure,gcp,git,github,githubactions,figma,linux,ubuntu,centos" />
 
 
 ## 📈 Status
