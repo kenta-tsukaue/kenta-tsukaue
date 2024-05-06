@@ -1,4 +1,4 @@
-## 🌕 About hanetsuki
+## 🌕 About Me
 Hi, I'm an AI and Backend engineer. 🤝
 
 ### 🌱 my skills
@@ -15,9 +15,6 @@ Hi, I'm an AI and Backend engineer. 🤝
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kenta-tsukaue&margin-w=5)](https://github.com/kenta-tsukaue/)
 
-## 📨 Contact me.
-
-**[Twitter - @hanetsuki_dev](https://twitter.com/hanetsuki_dev)** | **[Portfolio Web](https://tsuki-lab.net)**
 <!--
 **kenta-tsukaue/kenta-tsukaue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
