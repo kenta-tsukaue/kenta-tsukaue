@@ -1,8 +1,23 @@
-# My Profile (о´∀`о)
+## 🌕 About hanetsuki
+Hi, I'm an AI and Backend engineer. 🤝
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenta-tsukaue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenta-tsukaue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### 🌱 my skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,nodejs,react,nextjs,gatsbyjs,vue,astro,sass,tailwind,vite,webpack,supabase,firebase,vercel,netlify,aws,git,github,githubactions,figma" />
+
+
+## 📈 Status
+[![Followers](https://badgen.org/img/zenn/rabbit/followers?style=flat)](https://zenn.dev/rabbit)
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenta-tsukaue&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kenta-tsukaue" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kenta-tsukaue&margin-w=5)](https://github.com/kenta-tsukaue/)
+
+## 📨 Contact me.
+
+**[Twitter - @hanetsuki_dev](https://twitter.com/hanetsuki_dev)** | **[Portfolio Web](https://tsuki-lab.net)**
 <!--
 **kenta-tsukaue/kenta-tsukaue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
