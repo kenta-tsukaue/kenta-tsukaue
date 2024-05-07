@@ -6,7 +6,7 @@ Hi, I'm an AI and Backend engineer. 🤝
 
 
 ## 📈 Status
-[![Followers](https://badgen.org/img/zenn/rabbit/followers?style=flat)](https://zenn.dev/rabbit)
+[![Followers](https://badgen.org/img/zenn/kenta511/followers?style=flat)](https://zenn.dev/kenta511)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenta-tsukaue&layout=compact&show_icons=true" />
